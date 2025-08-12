@@ -1,0 +1,153 @@
+yrkesgrupp,01,03,04,05,06,07,08,09,10,12,13,14,17,18,19,20,21,22,23,24,25
+Advokater,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Anläggningsarbetare,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anläggningsmaskinförare m.fl.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apotekare,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Arbetsförmedlare,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arbetsledare inom bygg, anläggning och gruva",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arbetsledare inom lager och terminal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arbetsledare inom tillverkning,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0
+Arbetsterapeuter,2,0,0,0,1,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0
+Backofficepersonal m.fl.,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Banktjänstemän,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barnskötare,2,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+Behandlingsassistenter och socialpedagoger m.fl.,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Bibliotekarier och arkivarier,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Bilrekonditionerare, fönsterputsare m.fl.",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brandingenjörer och byggnadsinspektörer m.fl.,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brandmän,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Butikssäljare, dagligvaror",1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+"Butikssäljare, fackhandel",2,0,0,1,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0
+"Chefer inom friskvård, sport och fritid",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Chefer inom grund- och gymnasieskola samt vuxenutbildning,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Chefer inom handel,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Chefer inom hälso- och sjukvård,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Chefer inom socialt och kurativt arbete,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Civilingenjörsyrken inom logistik och produktionsplanering,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Civilingenjörsyrken inom maskinteknik,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Controller,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Designer inom spel och digitala medier,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Driftchefer inom bygg, anläggning och gruva",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"Drifttekniker, IT",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ekonomi- och finanschefer,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ekonomiassistenter m.fl.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elektronikreparatörer och kommunikationselektriker m.fl.,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Elevassistenter m.fl.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Eventsäljare och butiksdemonstratörer m.fl.,1,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0
+Fastighetsskötare,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Finansanalytiker och investeringsrådgivare m.fl.,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0
+Finmekaniker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fordonsmontörer,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Frisörer,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Fritidsledare m.fl.,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fritidspedagoger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Fysioterapeuter och sjukgymnaster,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Förare av jordbruks- och skogsmaskiner,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Företagssäljare,0,0,0,3,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,1,0
+Förskollärare,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Försäkringssäljare och försäkringsrådgivare,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0
+Försäljnings- och marknadschefer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Förvaltnings- och planeringschefer,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Geriatriksjuksköterskor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gjutare,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Golvläggare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Grafiska formgivare m.fl.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grovarbetare inom bygg och anläggning,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Grundskollärare,3,0,0,2,1,0,0,0,0,2,0,4,1,0,0,1,0,0,0,0,0
+Grundutbildade sjuksköterskor,0,2,3,4,1,1,2,2,1,1,3,4,0,1,1,1,2,4,2,1,4
+Gymnasielärare,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Handpaketerare och andra fabriksarbetare,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hotellreceptionister m.fl.,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hovmästare och servitörer,3,0,1,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0
+Idrottstränare och instruktörer m.fl.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Industridesigner,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Industrielektriker,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ingenjörer och tekniker inom bygg och anläggning,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ingenjörer och tekniker inom elektroteknik,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Ingenjörer och tekniker inom kemi och kemiteknik,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ingenjörer och tekniker inom maskinteknik,3,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0
+Inkasserare och pantlånare m.fl.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Inköpare och upphandlare,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Installations- och serviceelektriker,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intensivvårdssjuksköterskor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Journalister m.fl.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kockar och kallskänkor,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Kontorsreceptionister,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kundtjänstpersonal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Kuratorer,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Kyl- och värmepumpstekniker m.fl.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lager- och terminalpersonal,2,1,0,0,4,1,0,0,0,0,5,2,1,2,1,0,0,1,1,0,0
+Lastbilsförare m.fl.,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Lednings- och organisationsutvecklare,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ljus-, ljud- och scentekniker",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lärare i yrkesämnen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Marknadsanalytiker och marknadsförare m.fl.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Maskinoperatörer, cement-, sten- och betongvaror",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Maskinoperatörer, påfyllning, packning och märkning",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Maskinställare och maskinoperatörer, metallarbete",0,0,0,2,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Medicinska sekreterare, vårdadministratörer m.fl.",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mjukvaru- och systemutvecklare m.fl.,4,1,0,1,0,0,0,0,1,5,0,2,0,0,0,0,0,0,0,0,0
+"Montörer, elektrisk och elektronisk utrustning",1,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0,0
+"Montörer, metall-, gummi- och plastprodukter",0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Motorfordonsmekaniker och fordonsreparatörer,0,0,0,0,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Optiker,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ordersamordnare m.fl.,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Personal- och HR-chefer,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Personal- och HR-specialister,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0
+Personliga assistenter,5,1,0,1,0,1,0,0,0,4,0,2,0,0,0,1,1,2,0,1,3
+Pizzabagare m.fl.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Planerare och utredare m.fl.,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Produktionschefer inom tillverkning,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Professorer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Psykologer,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+"Ramppersonal, flyttkarlar och varupåfyllare m.fl.",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Redovisningsekonomer,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Renhållnings- och återvinningsarbetare,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Restaurang- och köksbiträden m.fl.,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1
+Restaurang- och kökschefer,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ST-läkare,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Skattehandläggare,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skolassistenter m.fl.,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skräddare och ateljésömmerskor m.fl.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Socialsekreterare,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+Specialister inom miljöskydd och miljöteknik,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Specialistläkare,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0,0
+Speciallärare och specialpedagoger m.fl.,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0
+Studie- och yrkesvägledare,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Städare,4,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,2
+"Supporttekniker, IT",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Systemadministratörer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Systemanalytiker och IT-arkitekter m.fl.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Systemtestare och testledare,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Säkerhetsinspektörer m.fl.,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Takmontörer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tandhygienister,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tandsköterskor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+Telefonförsäljare m.fl.,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Transportledare och transportsamordnare,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Truckförare,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Trädgårdsanläggare m.fl.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tunnplåtslagare,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Underhållsmekaniker och maskinreparatörer,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0
+"Undersköterskor, hemtjänst, hemsjukvård, äldreboende och habilitering",0,0,0,1,0,0,0,1,0,2,0,1,0,0,0,2,1,0,0,0,1
+"Undersköterskor, vård- och specialavdelning och mottagning",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Uppfödare och skötare av sällskapsdjur,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Verkställande direktörer m.fl.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Väktare och ordningsvakter,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"Växtodlare och djuruppfödare, blandad drift",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Vårdare, boendestödjare",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Vårdbiträden,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Åklagare,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Övrig bevaknings- och säkerhetspersonal,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Övrig hemservicepersonal m.fl.,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+Övriga IT-specialister,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Övriga chefer inom samhällsservice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Övriga civilingenjörsyrken,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Övriga förmedlare,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Övriga handläggare,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Övriga läkare,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Övriga maskin- och processoperatörer vid stål- och metallverk,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Övriga maskinoperatörer, livsmedelsindustri m.m.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Övriga pedagoger med teoretisk specialistkompetens,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Övriga utbildare och instruktörer,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Övriga yrken inom socialt arbete,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
