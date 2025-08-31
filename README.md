@@ -66,10 +66,15 @@ Reports are saved in the `reports/` folder.
 ## 🚀 How to Use  
 
 ### 1. Clone the repository  
-```bash
+```bash  
 git clone https://github.com/YourUsername/Kunskapskontroll-1.git
 cd "Kunskapskontroll 1"
 
 python main.py
 
 python report.py
+
+pip install -r requirements.txt
+
+python report.py    # Genererar rapporter (CSV + Excel med diagram)
+pytest tests/       # Kör tester
